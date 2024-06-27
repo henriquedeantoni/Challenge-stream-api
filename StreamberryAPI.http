@@ -1,0 +1,6 @@
+@StreamberryAPI_HostAddress = http://localhost:5186
+
+GET {{StreamberryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
